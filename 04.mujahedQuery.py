@@ -1,8 +1,8 @@
 from azure.cosmos import CosmosClient
 import os
 
-os.environ['ACCOUNT_URI']="https://acc1031.documents.azure.com:443/"
-os.environ['ACCOUNT_KEY']="W4r57wzXqX10Dt0s8i8McSMuDDuPCsO4rxsiUi3Xj5vtzpzYO1H9VxTwoQ5M3yldjuaUGAckvLOFMXxIzm6hIQ=="
+os.environ['ACCOUNT_URI']="https://megha16.documents.azure.com:443/"
+os.environ['ACCOUNT_KEY']="njWynf2yVf65R01XXIYGAHkwF0w0imf8uDuqN4YncXnIJnJ1S6ZqFTV1ZL8sJI0e4rPXWzBKMEyEK0Ei8Ar0tw=="
 
 url = os.environ['ACCOUNT_URI']
 key = os.environ['ACCOUNT_KEY']
